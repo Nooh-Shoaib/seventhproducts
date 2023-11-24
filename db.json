@@ -3,9 +3,8 @@
     {
       "slug": "candle-boxes",
       "id": "candle-boxes",
-      "Titlelink" : "/CustomRetailPackaging",
-      "Title" : "Custom Retail Packaging ",
-      "homelink" : "Home",
+      "categories" : [{"name":"Custom Retail Packaging ",
+        "categorySlug" : "custom-retail-packaging"}],
       "productTitle": "Custom Printed Candle Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1632875456Candle-Boxes-Sire-Printing%2002.png-gallery1",
@@ -169,7 +168,6 @@
       "homelink" : "Home",
       "productTitle": "Custom Vape Pen Boxes",
       "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1627836476Vape-Pen-Boxes-SirePrinting%2001.png",
         "https://s3.amazonaws.com/sireprinting.com/products/1627836476Vape-Pen-Boxes-SirePrinting%2002.png-gallery1"
       ],
       "relatedPortfolio": [
@@ -235,11 +233,6 @@
           "slug": "soap-gift-boxes",
           "productTitle": "Soap Gift Boxes",
           "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1628206006Soap-Gift-Boxes-SirePrinting%2001.png"
-        },
-        {
-          "slug": "macaron-boxes",
-          "productTitle": "Macaron Boxes",
-          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1612313700/Macaron%20Boxes.png"
         }
       ],
     "relatedBlogs": [
@@ -251,13 +244,7 @@
         "bloglink": "Custom Retail Packaging",
         "blogImage": "https://s3.amazonaws.com/sireprinting.com/blogs/1647044404Bath.png"
     }
-],
-       "description": [
-        {
-          "descriptionHeading": "Wholesale Custom Bath Bomb Boxes",
-          "descriptionText": "It's finally time to get the Bath Bomb Packaging Boxes you feel entitled to."
-        }
-      ]
+]
     }
   ]
 }
