@@ -3,8 +3,12 @@
     {
       "slug": "candle-boxes",
       "id": "candle-boxes",
-      "categories" : [{"name":"Custom Retail Packaging ",
-        "categorySlug" : "custom-retail-packaging"}],
+      "categories": [
+        {
+          "name": "Custom Retail Packaging ",
+          "categorySlug": "custom-retail-packaging"
+        }
+      ],
       "productTitle": "Custom Printed Candle Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1632875456Candle-Boxes-Sire-Printing%2002.png-gallery1",
@@ -37,23 +41,23 @@
           "descriptionText": "Candles include romance and attraction to the setting of any celebration. "
         }
       ],
-       "relatedBlogs": [
-    {
-        "slug": "",
-        "blogTitle": "The Power Of Custom Candle Boxes In Marketing",
-        "blogdate": "13 Oct",
-        "blogtext": "In the bustling marketplace, creating a standout brand presence is more than just offering a unique product. It's...",
-        "bloglink": "Custom Retail Packaging",
-        "blogImage": "https://s3.amazonaws.com/sireprinting.com/blogs/1697240727-the-power-of-custom-candle-boxes-in-marketing-1.avif"
-    }
-]
+      "relatedBlogs": [
+        {
+          "slug": "",
+          "blogTitle": "The Power Of Custom Candle Boxes In Marketing",
+          "blogdate": "13 Oct",
+          "blogtext": "In the bustling marketplace, creating a standout brand presence is more than just offering a unique product. It's...",
+          "bloglink": "Custom Retail Packaging",
+          "blogImage": "https://s3.amazonaws.com/sireprinting.com/blogs/1697240727-the-power-of-custom-candle-boxes-in-marketing-1.avif"
+        }
+      ]
     },
     {
       "slug": "vape-accessories-boxes",
       "id": "vape-accessories-boxes",
-      "Titlelink" : "/CBDPackaging",
-      "Title" : "CBD Packaging",
-      "homelink" : "Home",
+      "Titlelink": "/CBDPackaging",
+      "Title": "CBD Packaging",
+      "homelink": "Home",
       "productTitle": "Custom Vape Accessories Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1627836895Vape-Accessories-Boxes-SirePrinting%2001.png",
@@ -90,9 +94,9 @@
     {
       "slug": "vape-juice-bottle-boxes",
       "id": "vape-juice-bottle-boxes",
-       "Titlelink" : "/CBDPackaging",
-      "Title" : "CBD Packaging",
-      "homelink" : "Home",
+      "Titlelink": "/CBDPackaging",
+      "Title": "CBD Packaging",
+      "homelink": "Home",
       "productTitle": "Custom Vape Juice Bottle Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1627836226Vape-Juice-Bottle-Boxes-SirePrinting%2002.png-gallery1",
@@ -125,9 +129,9 @@
     {
       "slug": "vape-oil-cartridge-boxes",
       "id": "vape-oil-cartridge-boxes",
-       "Titlelink" : "/CBDPackaging",
-      "Title" : "CBD Packaging",
-      "homelink" : "Home",
+      "Titlelink": "/CBDPackaging",
+      "Title": "CBD Packaging",
+      "homelink": "Home",
       "productTitle": "Custom Vape Oil Cartridge Boxes",
       "description": [
         {
@@ -135,10 +139,10 @@
           "descriptionText": "If you are a vape producer, whether active in the market for a long or an early startup"
         }
       ],
-        "relatedPortfolio": [
-    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697658536-vape-cartridge-packaging-sire-printing.avif",
-    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697658301-vape-display-boxes-sire-printing.avif"
-    ],
+      "relatedPortfolio": [
+        "https://s3.amazonaws.com/sireprinting.com/portfolios/1697658536-vape-cartridge-packaging-sire-printing.avif",
+        "https://s3.amazonaws.com/sireprinting.com/portfolios/1697658301-vape-display-boxes-sire-printing.avif"
+      ],
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1627780198Vape-Oil-Cartridge-Boxes-SirePrinting%2001.png",
         "https://s3.amazonaws.com/sireprinting.com/products/1627780198Vape-Oil-Cartridge-Boxes-SirePrinting%2002.png-gallery1"
@@ -158,22 +162,23 @@
           "slug": "cbd-bath-bomb-boxes",
           "productTitle": "CBD Bath Bomb Boxes",
           "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627776386CBD-Bath-Bomb-Boxes-01.png"
-        }]
+        }
+      ]
     },
     {
       "slug": "vape-pen-boxes",
       "id": "vape-pen-boxes",
-      "Titlelink" : "/CBDPackaging",
-      "Title" : "CBD Packaging",
-      "homelink" : "Home",
+      "Titlelink": "/CBDPackaging",
+      "Title": "CBD Packaging",
+      "homelink": "Home",
       "productTitle": "Custom Vape Pen Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1627836476Vape-Pen-Boxes-SirePrinting%2002.png-gallery1"
       ],
       "relatedPortfolio": [
-    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697659374-vape-pen-boxes-sire-printing.avif",
-    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697658301-vape-display-boxes-sire-printing.avif"
-    ],
+        "https://s3.amazonaws.com/sireprinting.com/portfolios/1697659374-vape-pen-boxes-sire-printing.avif",
+        "https://s3.amazonaws.com/sireprinting.com/portfolios/1697658301-vape-display-boxes-sire-printing.avif"
+      ],
       "specifications": [
         {
           "name": "Box Style",
@@ -206,18 +211,18 @@
     {
       "slug": "bath-bomb-boxes",
       "id": "bath-bomb-boxes",
-       "Titlelink" : "/CustomRetailPackaging",
-      "homelink" : "Home",
-      "Title" : "Custom Retail Packaging",
+      "Titlelink": "/CustomRetailPackaging",
+      "homelink": "Home",
+      "Title": "Custom Retail Packaging",
       "productTitle": "Custom Bath Bomb Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1632874083Bath%20Bomb%20Boxes%20Sire%20Printing%2001.png",
         "https://s3.amazonaws.com/sireprinting.com/products/1632874083Bath%20Bomb%20Boxes%20Sire%20Printing%2003.png-gallery2"
       ],
-        "relatedPortfolio": [
-    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697047665-bath-bomb-gift-boxes-sire-printing.avif",
-    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697934925-bath-bomb-boxes-with-heart-shape-window-sire-printing.avif"
-    ],
+      "relatedPortfolio": [
+        "https://s3.amazonaws.com/sireprinting.com/portfolios/1697047665-bath-bomb-gift-boxes-sire-printing.avif",
+        "https://s3.amazonaws.com/sireprinting.com/portfolios/1697934925-bath-bomb-boxes-with-heart-shape-window-sire-printing.avif"
+      ],
       "specifications": [
         {
           "name": "Box Style",
@@ -235,16 +240,16 @@
           "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1628206006Soap-Gift-Boxes-SirePrinting%2001.png"
         }
       ],
-    "relatedBlogs": [
-    {
-        "slug": "",
-        "blogTitle": "Custom Bath Bomb Packaging Boxes Enhance Your Sales With Style",
-        "blogdate": "12 Mar",
-        "blogtext": "Bath bombs are concentrated foam baths made from a combination of wet and dry components such as essential...",
-        "bloglink": "Custom Retail Packaging",
-        "blogImage": "https://s3.amazonaws.com/sireprinting.com/blogs/1647044404Bath.png"
-    }
-]
+      "relatedBlogs": [
+        {
+          "slug": "",
+          "blogTitle": "Custom Bath Bomb Packaging Boxes Enhance Your Sales With Style",
+          "blogdate": "12 Mar",
+          "blogtext": "Bath bombs are concentrated foam baths made from a combination of wet and dry components such as essential...",
+          "bloglink": "Custom Retail Packaging",
+          "blogImage": "https://s3.amazonaws.com/sireprinting.com/blogs/1647044404Bath.png"
+        }
+      ]
     }
   ]
 }
