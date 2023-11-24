@@ -1,15 +1,15 @@
 {
   "products": [
     {
-      "slug": "pre-rolls-boxes",
-      "id": "pre-rolls-boxes",
-      "Titlelink" : "/CBDPackaging",
-      "Title" : "CBD Packaging",
+      "slug": "candle-boxes",
+      "id": "candle-boxes",
+      "Titlelink" : "/CustomRetailPackaging",
+      "Title" : "Custom Retail Packaging ",
       "homelink" : "Home",
-      "productTitle": "Custom CBD Pre Rolls Packaging Boxes",
+      "productTitle": "Custom Printed Candle Boxes",
       "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1627835995Pre-Rolls-Boxes-SirePrinting%2003.png-gallery2",
-        "https://s3.amazonaws.com/sireprinting.com/products/1627835995Pre-Rolls-Boxes-SirePrinting%2004.png-gallery3"
+        "https://s3.amazonaws.com/sireprinting.com/products/1632875456Candle-Boxes-Sire-Printing%2002.png-gallery1",
+        "https://s3.amazonaws.com/sireprinting.com/products/1632957661Candle-Boxes-Sire-Printing%2001.png-gallery1"
       ],
       "specifications": [
         {
@@ -27,17 +27,27 @@
       ],
       "relatedProducts": [
         {
-          "slug": "hemp-tea-boxes",
-          "productTitle": "Hemp Tea Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627831925Hemp-Tea-Boxes-SirePrinting%2001.png"
+          "slug": "business-cards-boxes",
+          "productTitle": "Business Cards Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1609627190/Business%20Cards%20Boxes.png"
         }
       ],
       "description": [
         {
-          "descriptionHeading": "Trending & Stylish Custom CBD Pre-roll Boxes",
-          "descriptionText": "Every manufacturer seeks vivid and handy pre-roll boxes as, without them,"
+          "descriptionHeading": "Charming Luxury Candle Boxes to Boost Your Sales",
+          "descriptionText": "Candles include romance and attraction to the setting of any celebration. "
         }
-      ]
+      ],
+       "relatedBlogs": [
+    {
+        "slug": "",
+        "blogTitle": "The Power Of Custom Candle Boxes In Marketing",
+        "blogdate": "13 Oct",
+        "blogtext": "In the bustling marketplace, creating a standout brand presence is more than just offering a unique product. It's...",
+        "bloglink": "Custom Retail Packaging",
+        "blogImage": "https://s3.amazonaws.com/sireprinting.com/blogs/1697240727-the-power-of-custom-candle-boxes-in-marketing-1.avif"
+    }
+]
     },
     {
       "slug": "vape-accessories-boxes",
