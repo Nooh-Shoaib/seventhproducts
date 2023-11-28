@@ -211,36 +211,5 @@
         }
       ]
     }
-  ],"navbarProduct": [
-    {
-      "slug": "products-all",
-      "id": "products-all",
-      "allProductTitle": "All Products",
-      "allProductImages": [
-        {
-          "slug": "small-pillow-boxes",
-          "productTitle": "Small Pillow Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632879803small-pillow-boxes-sire-printing.png"
-        },{
-          "slug": "kraft-cereal-boxes",
-          "productTitle": "Kraft Cereal Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1666201862Custom-Printed-Kraft-Cereal-Boxes-05.png"
-        },{
-          "slug": "incense-boxes",
-          "productTitle": "Incense Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1664586049Incense%20Boxes%20Sire%20Printing%2002.png"
-        },{
-          "slug": "kraft-window-boxes",
-          "productTitle": "Kraft Window Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1664588402Kraft%20Window%20Boxes%20SIre%20Printing%20001.png"
-        }
-      ],
-      "productDescription": [
-        {
-          "productDescriptionHeading": "All Our Packaging Products",
-          "productDescriptionText": "Sireprinting.com is your ultimate one-stop choice to acquire any custom box packaging solutions under a single roof."
-        }
-      ]
-    }
   ]
 }
