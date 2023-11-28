@@ -52,45 +52,6 @@
       ]
     },
     {
-      "slug": "vape-accessories-boxes",
-      "id": "vape-accessories-boxes",
-      "Titlelink": "/CBDPackaging",
-      "Title": "CBD Packaging",
-      "homelink": "Home",
-      "productTitle": "Custom Vape Accessories Boxes",
-      "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1627836895Vape-Accessories-Boxes-SirePrinting%2001.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1627836895Vape-Accessories-Boxes-SirePrinting%2002.png-gallery1"
-      ],
-      "specifications": [
-        {
-          "name": "Box Style",
-          "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
-        },
-        {
-          "name": "Dimensions",
-          "detail": "All Sizes Available"
-        },
-        {
-          "name": "Quantity",
-          "detail": "50"
-        }
-      ],
-      "relatedProducts": [
-        {
-          "slug": "cbd-oil-boxes",
-          "productTitle": "CBD Oil Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627779660CBD%20Oil%20Boxes%20SirePrinting%2001.png"
-        }
-      ],
-      "description": [
-        {
-          "descriptionHeading": "Boost Your Vaping Impact with Glamorized Custom Vape Accessories Boxes",
-          "descriptionText": "Vaping is not simply a yearning; it is a lifestyle demanding high end accessories to boost the feeling."
-        }
-      ]
-    },
-    {
       "slug": "vape-juice-bottle-boxes",
       "id": "vape-juice-bottle-boxes",
       "Titlelink": "/CBDPackaging",
@@ -247,6 +208,37 @@
           "blogtext": "Bath bombs are concentrated foam baths made from a combination of wet and dry components such as essential...",
           "bloglink": "Custom Retail Packaging",
           "blogImage": "https://s3.amazonaws.com/sireprinting.com/blogs/1647044404Bath.png"
+        }
+      ]
+    }
+  ],"navbarProduct": [
+    {
+      "slug": "products-all",
+      "id": "products-all",
+      "allProductTitle": "All Products",
+      "allProductImages": [
+        {
+          "slug": "small-pillow-boxes",
+          "productTitle": "Small Pillow Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632879803small-pillow-boxes-sire-printing.png"
+        },{
+          "slug": "kraft-cereal-boxes",
+          "productTitle": "Kraft Cereal Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1666201862Custom-Printed-Kraft-Cereal-Boxes-05.png"
+        },{
+          "slug": "incense-boxes",
+          "productTitle": "Incense Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1664586049Incense%20Boxes%20Sire%20Printing%2002.png"
+        },{
+          "slug": "kraft-window-boxes",
+          "productTitle": "Kraft Window Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1664588402Kraft%20Window%20Boxes%20SIre%20Printing%20001.png"
+        }
+      ],
+      "productDescription": [
+        {
+          "productDescriptionHeading": "All Our Packaging Products",
+          "productDescriptionText": "Sireprinting.com is your ultimate one-stop choice to acquire any custom box packaging solutions under a single roof."
         }
       ]
     }
